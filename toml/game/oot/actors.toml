@@ -4102,6 +4102,10 @@
 	Index = 277
 	Category = "5"
 	Objects = [266]
+	RenderCode = """
+		Draw.SetScale(0.01)
+		Draw.Skeleton(0, 2)
+	"""
 
 [[Actor]]
 	Name = "Skullkid's Needle"
